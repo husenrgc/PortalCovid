@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portal COvid</string>
+    <string name="appwidget_text">Data Covid-19</string>
+    <string name="jabar">Data Covid-19 Jabar</string>
+    <string name="addd">Add widget</string>
+    <string name="bekasi">Bekasit</string>
+
+    <string name="positif">Positif</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Wafat</string>
+</resources>
